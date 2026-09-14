@@ -1,0 +1,17 @@
+{
+    "download_dir": "C:\\Users\\user\\Desktop\\python projects\\downloads",
+    "default_format": "Video (Best)",
+    "quality": "Best",
+    "max_speed": 0.0,
+    "proxy": "",
+    "cookies_browser": "None",
+    "keep_history": true,
+    "auto_paste": true,
+    "embed_metadata": true,
+    "embed_thumbnail": true,
+    "download_subtitles": false,
+    "sponsorblock": false,
+    "trim_start": "",
+    "trim_end": "",
+    "naming_template": "%(title)s.%(ext)s"
+}
